@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "mes-configs-ms",
+      "type": "com.nabil.microservice_commande.configurations.ApplicationPropertiesConfiguration",
+      "sourceType": "com.nabil.microservice_commande.configurations.ApplicationPropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mes-configs-ms.commandes-last",
+      "type": "java.lang.Integer",
+      "sourceType": "com.nabil.microservice_commande.configurations.ApplicationPropertiesConfiguration"
+    }
+  ],
+  "hints": []
+}
